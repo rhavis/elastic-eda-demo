@@ -1,4 +1,4 @@
 FROM quay.io/joao_lobo/ansible-rulebook-elk:latest
 
 RUN pip install aiohttp elasticsearch python-dateutil pyyaml
-RUN ansible-galaxy collection install cio_automation.tools
+RUN ansible-galaxy collection install rhavis.tools

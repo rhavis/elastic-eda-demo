@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9174e247-5197-4e15-8ddb-536d05854bb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ansible-rulebook/elastic-eda-demo/rulebook-dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/ansible-rulebook/elastic-eda-demo/rulebook-dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eda/elastic-rulebook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eda/elastic-rulebook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eda/elastic.py" beforeDir="false" afterPath="$PROJECT_DIR$/eda/elastic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rulebook-dockerfile" beforeDir="false" />
-    </list>
+    <list default="true" id="9174e247-5197-4e15-8ddb-536d05854bb8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +159,7 @@
       <workItem from="1699021143256" duration="523000" />
       <workItem from="1699021937350" duration="1397000" />
       <workItem from="1699039107285" duration="2703000" />
-      <workItem from="1700681623704" duration="356000" />
+      <workItem from="1700681623704" duration="920000" />
     </task>
     <servers />
   </component>
