@@ -71,7 +71,7 @@ Examples
     - name: Watch for new records
         hosts: localhost
         sources:
-        - cloin.eda.snow_records:
+        - rhavis.tools.snow_records:
             instance: https://dev-012345.service-now.com
             username: ansible
             password: ansible
@@ -97,5 +97,5 @@ Status
 Authors
 ~~~~~~~
 
-- Colin McNaughton (@cloin)
+- Joao Lobo (@joaolgn)
 

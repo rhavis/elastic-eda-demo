@@ -61,7 +61,7 @@ Examples
       hosts: localhost
       sources:
         - name: RSS feed items as events
-          cloin.eda.rss:
+          rhavis.tools.rss:
             feed_configs:
               - name: Ansible blog
                 url: https://www.ansible.com/blog/rss.xml
@@ -98,5 +98,5 @@ Status
 Authors
 ~~~~~~~
 
-- Colin McNaughton @cloin - https://github.com/cloin
+- Joao Lobo (@joaolgn) - https://github.com/rhavis
 

@@ -75,7 +75,7 @@ Examples
     - name: Elastic events
         hosts: localhost
         sources:
-        - cloin.eda.elastic:
+        - rhavis.tools.elastic:
             elastic_host: elasticsearch
             elastic_port: 9200
             elastic_username: elastic
@@ -100,5 +100,5 @@ Status
 Authors
 ~~~~~~~
 
-- Colin McNaughton (@cloin)
+- Joao Lobo (@joaolgn)
 
